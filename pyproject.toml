@@ -1,0 +1,11 @@
+[project]
+name = "gemnai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "google>=3.0.0",
+    "google-genai>=1.0.0",
+]
