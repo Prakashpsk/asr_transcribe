@@ -292,6 +292,7 @@ dependencies = [
     { name = "dotenv" },
     { name = "google" },
     { name = "google-genai" },
+    { name = "tenacity" },
 ]
 
 [package.metadata]
@@ -299,6 +300,7 @@ requires-dist = [
     { name = "dotenv", specifier = ">=0.9.9" },
     { name = "google", specifier = ">=3.0.0" },
     { name = "google-genai", specifier = ">=1.0.0" },
+    { name = "tenacity", specifier = ">=9.0.0" },
 ]
 
 [[package]]
